@@ -14,5 +14,12 @@ Données Expat Dakar
 - Les 10 quartiers les plus accéssibles: Cité Keur Gorgui, Lac Rose, Keur Massar, Sacre Coeur, Foire, Sicap, Guédiawaye, Ouakam, Parcelles Assainies et Liberté 6 
 
 ## Fichiers
-- Données.xlsx
-- Dashboard.png
+- expat_dakar_final.csv : Données nettoyées
+- prix_m2_par_quartier.csv : Prix au m2 par quartier
+- prix_moyen_par_ville.csv : Prix moyen par ville
+- top_10_quartiers_accessibles.png : Top 10 quartiers accessibles
+- top_10_quartiers_chers.png : Top 10 quartiers chers
+- Marché_Immo_Sn (1).pdf : Rapport de marché
+
+## Recommandation
+Pour un budget limité, privilégier Saly, Nord Foire et Medina. Pour investissement haut de gamme, Almadies reste la zone la plus chère.
