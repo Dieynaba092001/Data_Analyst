@@ -18,6 +18,8 @@ Nettoyage + Fusion des 2 fichiers CSV + Analyse temporelle avec Python/Colab
 Il faudra que l'agent renforce la liquidité et révoit plus de personnel à 11h pour Moov Money et à 18h pour Airtel Money. 
 Il faut aussi anticiper un besoin de trésorerie important au mois de Décembre pour répondre à la forte demande.
 
+📓 Voir l'analyse complète avec les graphiques : [Analyse_Agent_MM_Tchad.ipynb]
+
 ## Fichiers
 - sms_airtel_money.csv
 - sms_moov_money.csv
